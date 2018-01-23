@@ -1,0 +1,16 @@
+c:\users\Amrit\documents\visual studio 2015\Projects\BussinessDataWarehouse\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Amrit\documents\visual studio 2015\Projects\BussinessDataWarehouse\obj\Debug\BussinessDataWarehouse.njsprojResolveAssemblyReference.cache
+C:\Users\Kishore\Desktop\BussinessDataWarehouse\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Amrit\Desktop\BussinessDataWarehouse2\obj\Debug\BussinessDataWarehouse.njsprojResolveAssemblyReference.cache
+C:\Users\Amrit\Desktop\BussinessDataWarehouse2\bin\Microsoft.NodejsTools.WebRole.dll
+D:\BussinessDataWarehouse2\bin\Microsoft.NodejsTools.WebRole.dll
+D:\BussinessDataWarehouse2\obj\Debug\BussinessDataWarehouse.njsprojResolveAssemblyReference.cache
+C:\Users\Kishore\Desktop\BussinessDataWarehouse2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\CSKN\Documents\Visual Studio 2017\Projects\BussinessDataWarehouse2\obj\Debug\BussinessDataWarehouse.njsprojResolveAssemblyReference.cache
+C:\Users\CSKN\Documents\Visual Studio 2017\Projects\BussinessDataWarehouse2\obj\Debug\BussinessDataWarehouse.njsproj.CoreCompileInputs.cache
+C:\Users\CSKN\Documents\Visual Studio 2017\Projects\BussinessDataWarehouse2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Kishore\Desktop\DataWareHouse_SirCode\BussinessDataWarehouse2\obj\Debug\BussinessDataWarehouse.njsprojResolveAssemblyReference.cache
+C:\Users\Kishore\Desktop\DataWareHouse_SirCode\BussinessDataWarehouse2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Amrit\Desktop\DataWareHouse_SirCode\BussinessDataWarehouse2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Daya\Documents\GEO IT Academy\Projects\Devlopment\Bussiness Data Warehouse\Bussiness Data Warehouse_Latest_11-01-18\obj\Debug\BussinessDataWarehouse.njsproj.CoreCompileInputs.cache
+C:\Users\Daya\Documents\GEO IT Academy\Projects\Devlopment\Bussiness Data Warehouse\Bussiness Data Warehouse_Latest_11-01-18\bin\Microsoft.NodejsTools.WebRole.dll
